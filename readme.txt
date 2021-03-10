@@ -5,7 +5,8 @@ git add .
 git add file1.txt
 git commit -m 'v1.0'
 git log
-git reset --hord 版本号
+git reset --hard 版本号
+git reflog
 touch file2.txt  新增文件
 
 cd e:/
